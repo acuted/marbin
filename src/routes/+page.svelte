@@ -103,7 +103,7 @@
     padding-right: 6px;
     padding-top: 4px;
     padding-bottom: 4px;
-    max-width: 137px;
+    max-width: 130px;
     width: 100%;
     color: #161616;
   }
